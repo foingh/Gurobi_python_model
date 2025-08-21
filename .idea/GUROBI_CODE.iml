@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+    </content>
+    <content url="file://$MODULE_DIR$/../第10章-密集存储仓库取货路径优化问题">
+      <sourceFolder url="file://$MODULE_DIR$/../第10章-密集存储仓库取货路径优化问题" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../第11章- 机器人组装生产计划优化问题">
+      <sourceFolder url="file://$MODULE_DIR$/../第11章- 机器人组装生产计划优化问题" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../第12章-车辆路径问题系列建模代码">
+      <sourceFolder url="file://$MODULE_DIR$/../第12章-车辆路径问题系列建模代码" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../第13章-同时取配送车辆路径规划问题">
+      <sourceFolder url="file://$MODULE_DIR$/../第13章-同时取配送车辆路径规划问题" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../第14章-无人机与卡车联合配送问题">
+      <sourceFolder url="file://$MODULE_DIR$/../第14章-无人机与卡车联合配送问题" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../第2章-逻辑约束">
+      <sourceFolder url="file://$MODULE_DIR$/../第2章-逻辑约束" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../第3章-线性化技巧">
+      <sourceFolder url="file://$MODULE_DIR$/../第3章-线性化技巧" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../第4章-计算复杂性理论">
+      <sourceFolder url="file://$MODULE_DIR$/../第4章-计算复杂性理论" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../第5章-生产计划优化问题">
+      <sourceFolder url="file://$MODULE_DIR$/../第5章-生产计划优化问题" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../第6章-数论方程的数学规划模型代码">
+      <sourceFolder url="file://$MODULE_DIR$/../第6章-数论方程的数学规划模型代码" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../第7章-机组排班优化问题">
+      <sourceFolder url="file://$MODULE_DIR$/../第7章-机组排班优化问题" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../第8章-配送网络规划问题">
+      <sourceFolder url="file://$MODULE_DIR$/../第8章-配送网络规划问题" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../第9章-数字华容道问题">
+      <sourceFolder url="file://$MODULE_DIR$/../第9章-数字华容道问题" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.11 (GUROBI_CODE)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
